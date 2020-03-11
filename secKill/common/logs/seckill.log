@@ -1,0 +1,2 @@
+2018/05/22 10:48:04.633 [D] [init.go:49] init logs success
+2018/05/22 10:48:04.650 [I] [asm_amd64.s:2337] http server Running on http://:8090
